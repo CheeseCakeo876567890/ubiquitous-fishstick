@@ -1,0 +1,4 @@
+{
+  "shutdown": false,
+  "reason": "Newsletter is still active and sending weekly updates."
+}
