@@ -1,0 +1,6 @@
+{
+  "features": [
+    "dark_mode": true,
+    "newspaper": true
+  ]
+}
