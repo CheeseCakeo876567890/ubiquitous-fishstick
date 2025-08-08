@@ -1,0 +1,32 @@
+{
+  "newsletter": {
+    "shutdown": false,
+    "reason": "Newsletter is active and complies with school rules.",
+    "notice": {
+      "enabled": true,
+      "message": "All content in this newsletter follows school guidelines."
+    },
+    "news": [
+      {
+        "title": "School Science Fair Winners Announced",
+        "thumbnail": "images/sciencefair_thumb.jpg",
+        "author": "Ms. Johnson",
+        "content": "The annual science fair showcased innovative projects from students across all grades. Winners were announced during assembly.",
+        "page_image": "images/sciencefair_full.jpg",
+        "category": "School Events",
+        "date": "2025-08-08",
+        "safe_for_school": true
+      },
+      {
+        "title": "Cafeteria Introduces Healthy Menu Options",
+        "thumbnail": "images/cafeteria_thumb.jpg",
+        "author": "Mr. Lee",
+        "content": "The cafeteria now offers new healthy meals, including vegetarian and gluten-free options, to promote student well-being.",
+        "page_image": "images/cafeteria_full.jpg",
+        "category": "Student Life",
+        "date": "2025-08-07",
+        "safe_for_school": true
+      }
+    ],
+  }
+}
