@@ -1,5 +1,5 @@
 {
-  "shutdown": true,
+  "shutdown": false,
   "offline": true,
   "reason": "Extension has been deprecated due to lack of usage."
 }
